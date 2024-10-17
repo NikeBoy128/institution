@@ -1,0 +1,15 @@
+{
+    "_id" : ObjectId("670fd2f337d49219560da64f"),
+    "name" : "Primer Corte",
+    "programId" : ObjectId("670fd1b837d49219560da63f")
+}
+{
+    "_id" : ObjectId("670fd2f337d49219560da650"),
+    "name" : "Segundo Corte",
+    "programId" : ObjectId("670fd1b837d49219560da63f")
+}
+{
+    "_id" : ObjectId("670fd2f337d49219560da651"),
+    "name" : "Tercer Corte",
+    "programId" : ObjectId("670fd1b837d49219560da63f")
+}

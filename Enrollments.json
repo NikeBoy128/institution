@@ -1,0 +1,8 @@
+{
+    "_id" : ObjectId("670fd88e67e85f96adddf336"),
+    "programId" : ObjectId("670fd1b837d49219560da63f"),
+    "semesterId" : ObjectId("670fd031044f85443aed6fc4"),
+    "headquartersId" : ObjectId("670fd20e37d49219560da645"),
+    "studyPlanId" : ObjectId("670fd36437d49219560da65d"),
+    "studentId" : ObjectId("670fcecd37d49219560da603")
+}

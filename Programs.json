@@ -1,0 +1,10 @@
+{
+    "_id" : ObjectId("670fd1b837d49219560da63f"),
+    "name" : "Ingenieria de Sistemas",
+    "facultyId" : ObjectId("670fd15037d49219560da637")
+}
+{
+    "_id" : ObjectId("670fd1b837d49219560da640"),
+    "name" : "Ingenieria Ambiental",
+    "facultyId" : ObjectId("670fd15037d49219560da637")
+}

@@ -1,0 +1,6 @@
+{
+    "_id" : ObjectId("670fd8bb67e85f96adddf342"),
+    "SubjectStudyPlanId" : ObjectId("670fd6c267e85f96adddf320"),
+    "value" : 3.9,
+    "enrollmentId" : ObjectId("670fd88e67e85f96adddf336")
+}

@@ -1,0 +1,6 @@
+{
+    "_id" : ObjectId("670fd6c267e85f96adddf320"),
+    "subjectId" : ObjectId("670fd49f044f85443aed6fde"),
+    "studyPlanId" : ObjectId("670fd36437d49219560da65d"),
+    "teacherId" : ObjectId("670fd64167e85f96adddf2fe")
+}

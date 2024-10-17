@@ -1,0 +1,12 @@
+{
+    "_id" : ObjectId("670fcf0f37d49219560da606"),
+    "name" : "Estudiante"
+}
+{
+    "_id" : ObjectId("670fcf0f37d49219560da607"),
+    "name" : "Docente"
+}
+{
+    "_id" : ObjectId("670fcf0f37d49219560da608"),
+    "name" : "Administrativo"
+}

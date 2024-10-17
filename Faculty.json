@@ -1,0 +1,16 @@
+{
+    "_id" : ObjectId("670fd15037d49219560da637"),
+    "name" : "Ingenieria y Ciencias Basicas"
+}
+{
+    "_id" : ObjectId("670fd15037d49219560da638"),
+    "name" : "Administracion"
+}
+{
+    "_id" : ObjectId("670fd15037d49219560da639"),
+    "name" : "Bellas Artes"
+}
+{
+    "_id" : ObjectId("670fd15037d49219560da63a"),
+    "name" : "Drecho y Ciencias Politicas"
+}

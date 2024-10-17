@@ -1,0 +1,12 @@
+{
+    "_id" : ObjectId("670fd36437d49219560da65d"),
+    "name" : "Plan Estudios Ingenieria Sistemas",
+    "programId" : ObjectId("670fd1b837d49219560da63f"),
+    "isActive" : true
+}
+{
+    "_id" : ObjectId("670fd36437d49219560da65e"),
+    "name" : "Plan Estudios Ingenieria Ambiental",
+    "progamId" : ObjectId("670fd1b837d49219560da640"),
+    "isActive" : true
+}

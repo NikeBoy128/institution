@@ -1,0 +1,80 @@
+{
+    "_id" : ObjectId("670fd49f044f85443aed6fde"),
+    "name" : "Programación I"
+}
+{
+    "_id" : ObjectId("670fd49f044f85443aed6fdf"),
+    "name" : "Programación II"
+}
+{
+    "_id" : ObjectId("670fd49f044f85443aed6fe0"),
+    "name" : "Estructuras de Datos"
+}
+{
+    "_id" : ObjectId("670fd49f044f85443aed6fe1"),
+    "name" : "Bases de Datos"
+}
+{
+    "_id" : ObjectId("670fd49f044f85443aed6fe2"),
+    "name" : "Sistemas Operativos"
+}
+{
+    "_id" : ObjectId("670fd49f044f85443aed6fe3"),
+    "name" : "Redes de Computadoras"
+}
+{
+    "_id" : ObjectId("670fd49f044f85443aed6fe4"),
+    "name" : "Ingeniería de Software"
+}
+{
+    "_id" : ObjectId("670fd49f044f85443aed6fe5"),
+    "name" : "Arquitectura de Computadoras"
+}
+{
+    "_id" : ObjectId("670fd49f044f85443aed6fe6"),
+    "name" : "Algoritmos"
+}
+{
+    "_id" : ObjectId("670fd49f044f85443aed6fe7"),
+    "name" : "Inteligencia Artificial"
+}
+{
+    "_id" : ObjectId("670fd49f044f85443aed6fe8"),
+    "name" : "Química Ambiental"
+}
+{
+    "_id" : ObjectId("670fd49f044f85443aed6fe9"),
+    "name" : "Biología Ambiental"
+}
+{
+    "_id" : ObjectId("670fd49f044f85443aed6fea"),
+    "name" : "Gestión de Residuos"
+}
+{
+    "_id" : ObjectId("670fd49f044f85443aed6feb"),
+    "name" : "Sistemas de Información Geográfica (SIG)"
+}
+{
+    "_id" : ObjectId("670fd49f044f85443aed6fec"),
+    "name" : "Evaluación de Impacto Ambiental"
+}
+{
+    "_id" : ObjectId("670fd49f044f85443aed6fed"),
+    "name" : "Energías Renovables"
+}
+{
+    "_id" : ObjectId("670fd49f044f85443aed6fee"),
+    "name" : "Hidrología"
+}
+{
+    "_id" : ObjectId("670fd49f044f85443aed6fef"),
+    "name" : "Ecología"
+}
+{
+    "_id" : ObjectId("670fd49f044f85443aed6ff0"),
+    "name" : "Control de la Contaminación"
+}
+{
+    "_id" : ObjectId("670fd49f044f85443aed6ff1"),
+    "name" : "Geología Aplicada"
+}

@@ -1,0 +1,22 @@
+{
+    "_id" : ObjectId("670fcecd37d49219560da603"),
+    "email" : "haroldmosquera739@gmail.com",
+    "password" : "$2a$10$X3GhZmI62.pze6URykhbrOv53FAvHvxQvygdx/OEJBtXSHdNwymB.",
+    "isActive" : true,
+    "people" : {
+        "names" : "Harold Stevent",
+        "lastNames" : "Mosquera Cerón",
+        "phone" : "3209596096"
+    }
+}
+{
+    "_id" : ObjectId("670fd64167e85f96adddf2fe"),
+    "email" : "marcos@gmail.com",
+    "password" : "$2a$10$X3GhZmI62.pze6URykhbrOv53FAvHvxQvygdx/OEJBtXSHdNwymB.",
+    "isActive" : true,
+    "people" : {
+        "names" : "Marcos",
+        "lastNames" : "Smith",
+        "phone" : "3209596096"
+    }
+}
